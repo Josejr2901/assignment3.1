@@ -1,4 +1,4 @@
-# note_app
+# Assignment3
 
 A new Flutter project.
 
